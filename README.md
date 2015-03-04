@@ -8,8 +8,11 @@ Request and Send IP address via PushBullet
 
 # TODO:
 . Input Stream instead of constant polling
+
 . Use Config File
+
 . Tidy
+
 
 Using jPushBullet2 (http://iharder.sourceforge.net/current/java/jpushbullet2/)
 
